@@ -1,9 +1,9 @@
-### Olá, eu sou Dom Cabral 
+### Olá, eu sou Vilmar Cabral
 
 
-- 🔭 Hoje eu trabalho como SysAdmin, desenvolvendo habilidades DevOps
-- 🌱 Estou estudando Containers, CI/CD, Kubernetes, Terraform e Cloud
-- 📫 Contate-me no e-mail: domcabral@protonmail.com
+- 🔭 Hoje eu sou desenvolvedor .Net C# 
+- 🌱 Estou estudando PHP, Power BI, Docker
+- 📫 Contate-me no e-mail: Vilmarcabraljunior2@gmail.com
 
 <div align="center">
   <a href="https://github.com/Vilmarcabraljunior">
